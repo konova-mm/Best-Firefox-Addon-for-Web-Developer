@@ -1,0 +1,23 @@
+Usersnap
+Link => https://addons.mozilla.org/en-US/firefox/addon/usersnap/
+The Usersnap Firefox add-on lets you capture and annotate any website. It works great for collecting and managing user feedback on websites or applications or for tracking bugs in your browser. All screenshots are directly saved in your Usersnap projects. It integrates with your workflow, and you can connect Usersnap withJIRA, Trello, Slack and 20 other project management tools. A perfect fit for QA and development teams.
+
+
+Web Developer
+Link => https://addons.mozilla.org/en-us/firefox/addon/web-developer/
+I absolutely recommend the ‘Web Developer‘ add-on. It gives you some great features which will make your development workflow faster. I enjoy various CSS, form and image options. No matter if I want to check alt tags, missing images or image dimensions, this add-on is my preferred choice.
+
+
+Ghostery
+Link => https://addons.mozilla.org/en-US/firefox/addon/ghostery/
+Ghostery is a great add-on to display installed trackers and pixels of any website. It helps you to find and analyze the used marketing- and tech stack of any website. And you can block them if you don’t want your session to be recorded.
+
+
+ColorZilla
+ColorZilla is an advanced color picker and eyedropper. It allows you to get the color of any pixel in the browser window. The extension also has a built-in averaging square. This helps you get a matching color to for a photo. The add-on is pretty simple and easy to use.
+Link => https://addons.mozilla.org/en-uS/firefox/addon/colorzilla/
+
+
+NoScript Security Suite
+Winning the “PC World Class Award”, this Firefox add-on got quite some attention. It is one of the top-rated add-ons. This extension makes your browser safer by restricting JavaScript and other executable content.
+Link => https://addons.mozilla.org/EN-uS/firefox/addon/noscript/
